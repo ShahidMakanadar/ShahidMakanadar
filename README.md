@@ -3,9 +3,9 @@
 <h3 align="center">A passionate full-stack(MERN) developer from India</h3>
 <img align="right" alt="coding.." width="250" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidmakanadar&label=Profile%20views&color=0e75b6&style=flat" alt="shahidmakanadar" /> </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidmakanadar" alt="shahidmakanadar" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidmakanadar" alt="shahidmakanadar" /></a> </p>
 
 - 🔭 I’m currently working on **Chatting App**
 
