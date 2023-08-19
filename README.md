@@ -5,8 +5,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidmakanadar" alt="shahidmakanadar" /></a> </p>
-
 - 🔭 I’m currently working on **Chatting App**
 
 - 🌱 I’m currently learning **Redux and Docker**
